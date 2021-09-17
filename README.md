@@ -1,3 +1,3 @@
 # Enercoop
 Energy project
-Website to talk about energy
+Idea is to develop a website that talks about energy, and their impact towards climate change
